@@ -1,0 +1,7 @@
+node_modules/
+.wrangler/
+.dev.vars
+*.log
+
+koreader/larder.koplugin/fridge-cache.json
+koreader/larder.koplugin/fridge-settings.lua
